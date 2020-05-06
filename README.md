@@ -1,5 +1,7 @@
 "# covid19-dashboard" 
-api calls made to 3rd party website, but get_data.py filters returned data.
+API calls made to 3rd party website, but get_data.py filters returned data.
+
+Only website.py needs to be run via python3
 
 Required pips:
 pip install 
