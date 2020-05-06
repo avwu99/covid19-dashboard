@@ -1,0 +1,26 @@
+A {
+    background: #1e2130;
+}
+
+h4 {
+    font-family:"Lucida Console", monospace;
+    color: white;
+    font-weight: 50;
+    line-height: 1.2;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+}
+
+html {
+    background-color: rgb(0,0,26);
+}
+
+.card{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
